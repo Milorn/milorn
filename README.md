@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Karim</h1>
 <h3 align="center">I am a passionate Full Stack Developer from Algeria</h3>
 
-- 📫 How to reach me **karim.ouadhi.dz@outlook.com**
+- 📫 Contact me at **karim.ouadhi.dz@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
